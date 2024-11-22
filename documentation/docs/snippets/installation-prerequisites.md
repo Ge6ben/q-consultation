@@ -1,6 +1,6 @@
 Before installing **Q-Consultation**, the following requirements must be installed on your computer:
 
-- [Node.js](https://nodejs.org): Only Maintenance and LTS versions are supported (`v16`, `v18` and `v20`).
+- [Node.js](https://nodejs.org): Only Maintenance and LTS versions are supported (`v16`, `v18`, `v20` and `v22`).
 
 - [Yarn](https://yarnpkg.com): The preferred way to manage Yarn is by-project and through
 [Corepack](https://nodejs.org/dist/latest/docs/api/corepack.html), a tool shipped by default with Node.js. 
